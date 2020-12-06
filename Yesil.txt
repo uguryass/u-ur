@@ -15,11 +15,11 @@ ugur:
 ugur: 
 Güncel : as
 
-admin: amcık
+admin: 
 
 admin: <font color="red">sa
 
-admin: admin
+admin: 
 
 admin: 
 admin: 
